@@ -4,7 +4,7 @@ A recreation of the "Creative Services" page of the Finn and Gray website, built
 
 **Live demo:** https://tutu-creator.github.io/Finnand-Gray-sayt/
 
-![Finn and Gray screenshot](assets/screenshot.png)
+![Finn and Gray screenshot](public/screenshot.png)
 
 ## Features
 - Fully responsive design for mobile, tablet and desktop
